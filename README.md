@@ -86,7 +86,7 @@ Full-Stack Developer
       <br>Git
     </td>
     <td align="center" width="88">
-        <img src="./images/11-aspNet" alt="asp.net" width="44" height="44"/>
+        <img src="./images/11-aspNet.svg" alt="asp.net" width="44" height="44"/>
       <br>Asp.Net
     </td>
   <td align="center" width="88">
