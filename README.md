@@ -53,7 +53,7 @@ Full-Stack Developer
       <br>TypeScript
     </td>
      <td align="center" width="88">
-         <img src="./images/csharp.svg" alt="JS" width="44" height="44"/>
+         <img src="./images/csharp.svg" alt="C#" width="44" height="44"/>
       <br>C#
     </td>
     <td align="center" width="88">
@@ -96,6 +96,10 @@ Full-Stack Developer
   <td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
+     </td>
+     <td align="center" width="88">
+        <img src="./images/18-vs.svg" alt="Visual Studio" width="44" height="44"/>
+      <br>VS
      </td>
 </table>
 </div>
