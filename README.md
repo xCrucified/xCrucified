@@ -19,13 +19,13 @@ Passionate Software Developer | Web Design Enthusiast
 <table  align="center">
   <tr>
     
-        🇺🇦 Ukrainian - Native
+        Ukrainian - Native
         
   </tr>
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        English - Intermediate
         
   </tr>
 </table>
@@ -53,10 +53,6 @@ Passionate Software Developer | Web Design Enthusiast
       <br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
-    <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
@@ -82,7 +78,7 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Redux
     </td>
    <td align="center" width="88">
-      <img src-"./images/11-zustand.svg" alt="Zustand" width="44" height="44" />
+        <img src="./images/10-zustand.svg" alt="Zustand" width="44" height="44"/>
       <br>Zustand
    </td>
       <td align="center" width="88">
