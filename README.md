@@ -41,7 +41,7 @@ Full-Stack Developer
       <br>HTML5
     </td>
     <td align="center" width="88">
-        <img src="./images/CSS3_logo.svg" alt="CSS3" width="44" height="44"/>
+        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
     <td align="center" width="88">
@@ -53,7 +53,7 @@ Full-Stack Developer
       <br>TypeScript
     </td>
      <td align="center" width="88">
-         <img src="./images/05-c#.png" alt="JS" width="44" height="44"/>
+         <img src="./images/csharp.svg" alt="JS" width="44" height="44"/>
       <br>C#
     </td>
     <td align="center" width="88">
