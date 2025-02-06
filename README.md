@@ -11,7 +11,7 @@ Hey there, I'm Max!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Full-Stack Developer
 
 ### Languages :
 
@@ -19,13 +19,13 @@ Passionate Software Developer | Web Design Enthusiast
 <table  align="center">
   <tr>
     
-        Ukrainian - Native
+        ua Ukrainian - Native
         
   </tr>
 
   <tr>
     
-        English - Intermediate
+        us English - Intermediate
         
   </tr>
 </table>
@@ -81,10 +81,6 @@ Passionate Software Developer | Web Design Enthusiast
         <img src="./images/10-zustand.svg" alt="Zustand" width="44" height="44"/>
       <br>Zustand
    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
@@ -101,7 +97,7 @@ Passionate Software Developer | Web Design Enthusiast
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xCrucified&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xCrucified&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xCrucified github stats" /></a>
   </td>
   <td>
   <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -109,7 +105,7 @@ Passionate Software Developer | Web Design Enthusiast
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=xCrucified&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=xCrucified&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="xCrucified GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
