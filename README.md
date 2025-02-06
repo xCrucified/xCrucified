@@ -44,13 +44,17 @@ Full-Stack Developer
         <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
-<td align="center" width="88">
+    <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
     <td align="center" width="88">
         <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
       <br>TypeScript
+    </td>
+     <td align="center" width="88">
+         <img src="./images/05-c#.png" alt="JS" width="44" height="44"/>
+      <br>C#
     </td>
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
