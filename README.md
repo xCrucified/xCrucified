@@ -146,9 +146,3 @@ Passionate Software Developer | Web Design Enthusiast
 <div align="center">
 <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
 </div>
-
-<br>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
