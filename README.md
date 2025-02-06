@@ -85,6 +85,10 @@ Full-Stack Developer
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
+    <td align="center" width="88">
+        <img src="./images/11-aspNet" alt="asp.net" width="44" height="44"/>
+      <br>Asp.Net
+    </td>
   <td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
@@ -100,7 +104,7 @@ Full-Stack Developer
   <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xCrucified&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xCrucified github stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrucified&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
   <tr>
