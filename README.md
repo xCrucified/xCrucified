@@ -104,21 +104,4 @@ Full-Stack Developer
 </table>
 </div>
 
-### GitHub Stats :
-
-<table align="center">
-  <tr>
-  <td>
-  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xCrucified&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xCrucified github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/xCrucified/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrucified&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-</table>
-
 <br>
-
-<div align="center">
-<a href="https://www.codewars.com/users/xCrucified"><img src="https://www.codewars.com/users/xCrucified/badges/small">
-</div>
